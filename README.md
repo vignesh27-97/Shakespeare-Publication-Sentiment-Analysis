@@ -1,4 +1,4 @@
-# Shakespeare-Publication-Sentiment-Analysis
+# Shakespeare Publication Sentiment Analysis
 
 •	Segregated the Shakespeare publications based on genre such as poem, drama, comedy, history and analyzed average number of words per sentence per type of the publications
 
